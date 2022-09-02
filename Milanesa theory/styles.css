@@ -1,0 +1,26 @@
+body{
+    background-color: #ECECEB;
+}
+
+h1{
+ color: black;
+}
+.emoji{
+    height: 15%;
+}
+
+.imagine{
+    display: none;
+    position: relative;
+    z-index: 2;
+    height: 5%;
+    border-radius: 100%;
+}
+
+.main{
+    padding: 80px 120px;
+}
+
+.form{
+    padding-left: 2%;
+}
